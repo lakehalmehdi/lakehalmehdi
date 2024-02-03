@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 # 💫 About Me:
-**My name is MEHDI LAKEHAL** and I'm a web developer. I have been developing websites for four years. I specialize in creating modern and responsive web applications that are optimized for mobile devices.<br>
+**My name is MEHDI** and I'm a web developer. I have been developing websites for four years. I specialize in creating modern and responsive web applications that are optimized for mobile devices.<br>
 🔭 I’m currently working on Dentilina App (Medical field)<br>🌱 Always learning<br>💬 If you have any questions about any of the projects you find here, please don't hesitate to contact me. I am always happy to discuss my work and answer any questions you may have. <br>⚡ Thank you for visiting my GitHub page! 
 
 
